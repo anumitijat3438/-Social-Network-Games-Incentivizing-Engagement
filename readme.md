@@ -5,6 +5,8 @@ This project implements a blockchain-based smart contract to incentivize engagem
 
 ## Contract Address
 0x0E3E416D594c7733f29d4Aa7b37d3092DabaB4Cf
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/e67536d7-7bd0-47ab-a182-aad7b96ef139" />
+
 
 ## Project Vision
 Our vision is to revolutionize social gaming by integrating blockchain technology to create transparent, fair, and engaging experiences. By incentivizing engagement and penalizing inactivity, the project fosters an active and interactive player community.
