@@ -30,7 +30,7 @@ Our vision is to revolutionize social gaming by integrating blockchain technolog
 - **Leaderboard Integration (Future Enhancement):**
   A potential feature to display top players based on points.
 
-## Future Improvements
+##Future Improvements
 - **NFT Integration:**
   Introduce unique NFTs as rewards for achieving specific milestones in the game.
 
